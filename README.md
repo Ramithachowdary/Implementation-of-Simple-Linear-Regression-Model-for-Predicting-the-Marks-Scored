@@ -17,10 +17,10 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: Ramitha chowdary.s
+RegisterNumber:  24900704
 */
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -63,9 +63,10 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-
+```
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+```
   Hours  Scores
 0     2.5      21
 1     5.1      47
@@ -141,7 +142,7 @@ print("RMSE= ",rmse)
 MSE =  4.691397441397438
 MAE =  4.691397441397438
 RMSE=  2.1659633979819324
-
+```
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
