@@ -135,6 +135,7 @@ print("RMSE= ",rmse)
 [17.04289179 33.51695377 74.21757747 26.73351648 59.68164043 39.33132858
  20.91914167 78.09382734 69.37226512]
 [20 27 69 30 62 35 24 86 76]
+```
 ![download](https://github.com/user-attachments/assets/0ddccd04-1aa5-4220-a46d-414a8acadabe)
 ![download](https://github.com/user-attachments/assets/dc186eb9-9862-4e94-ab99-0eb08abde67b)
 
@@ -142,7 +143,7 @@ print("RMSE= ",rmse)
 MSE =  4.691397441397438
 MAE =  4.691397441397438
 RMSE=  2.1659633979819324
-```
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
