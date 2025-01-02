@@ -8,10 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the standard libraries
+2.Set variables for assigning dataset values
+3.Import linear regression from sklearnr
+4.Assign the points for representing the graph
+5.Predict the regressio for makes by using the representation of the graph
+6.Compare the graphs and hence we obtained the linear regression for the given datas 
 
 ## Program:
 ```
@@ -135,14 +137,15 @@ print("RMSE= ",rmse)
 [17.04289179 33.51695377 74.21757747 26.73351648 59.68164043 39.33132858
  20.91914167 78.09382734 69.37226512]
 [20 27 69 30 62 35 24 86 76]
+MSE =  4.691397441397438
+MAE =  4.691397441397438
+RMSE=  2.1659633979819324
 ```
 ![download](https://github.com/user-attachments/assets/0ddccd04-1aa5-4220-a46d-414a8acadabe)
 ![download](https://github.com/user-attachments/assets/dc186eb9-9862-4e94-ab99-0eb08abde67b)
 
 
-MSE =  4.691397441397438
-MAE =  4.691397441397438
-RMSE=  2.1659633979819324
+
 
 
 ## Result:
